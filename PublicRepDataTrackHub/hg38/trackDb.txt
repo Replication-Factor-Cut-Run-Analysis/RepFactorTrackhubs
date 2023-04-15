@@ -1,7 +1,6 @@
 track HCT116Repliseq
 container multiWig
 aggregate stacked
-visibility dense
 
 track S1
 parent HCT116Repliseq
@@ -64,4 +63,5 @@ parent HCT116Repliseq
 bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/S8HCT_Repliseq.bw
 shortLabel HCT116 RepliSeq S8
 longLabel HCT116 high resolutions Repliseq S8
-type bigW
+type bigWig
+visibility dense
