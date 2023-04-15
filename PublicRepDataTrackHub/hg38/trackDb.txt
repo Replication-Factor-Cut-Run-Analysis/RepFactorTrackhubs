@@ -4,6 +4,7 @@ shortLabel HCT116 RepliSeq S1
 longLabel HCT116 high resolutions Repliseq S1
 type bigWig
 visibility dense
+viewLimits 0:20
 
 track S2
 bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/S2HCT_Repliseq.bw
@@ -11,6 +12,7 @@ shortLabel HCT116 RepliSeq S2
 longLabel HCT116 high resolutions Repliseq S2
 type bigWig
 visibility dense
+viewLimits 0:20
 
 track S3
 bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/S3HCT_Repliseq.bw
@@ -18,3 +20,4 @@ shortLabel HCT116 RepliSeq S3
 longLabel HCT116 high resolutions Repliseq S3
 type bigWig
 visibility dense
+viewLimits 0:20
