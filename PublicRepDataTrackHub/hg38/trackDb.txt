@@ -108,16 +108,6 @@ viewLimits 0:20
 centerLabelsDense off
 priority 11
 
-track S11
-bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/S11HCT_Repliseq.bw
-shortLabel HCT116 RepliSeq S11
-longLabel HCT116 high resolutions Repliseq S11
-type bigWig
-visibility dense
-viewLimits 0:20
-centerLabelsDense off
-priority 11
-
 track S12
 bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/S12HCT_Repliseq.bw
 shortLabel HCT116 RepliSeq S12
