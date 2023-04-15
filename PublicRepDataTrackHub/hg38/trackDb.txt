@@ -108,3 +108,62 @@ viewLimits 0:20
 centerLabelsDense off
 priority 11
 
+track S11
+bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/S11HCT_Repliseq.bw
+shortLabel HCT116 RepliSeq S11
+longLabel HCT116 high resolutions Repliseq S11
+type bigWig
+visibility dense
+viewLimits 0:20
+centerLabelsDense off
+priority 11
+
+track S12
+bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/S12HCT_Repliseq.bw
+shortLabel HCT116 RepliSeq S12
+longLabel HCT116 high resolutions Repliseq S12
+type bigWig
+visibility dense
+viewLimits 0:20
+centerLabelsDense off
+priority 12
+
+track S13
+bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/S13HCT_Repliseq.bw
+shortLabel HCT116 RepliSeq S13
+longLabel HCT116 high resolutions Repliseq S13
+type bigWig
+visibility dense
+viewLimits 0:20
+centerLabelsDense off
+priority 13
+
+track S14
+bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/S14HCT_Repliseq.bw
+shortLabel HCT116 RepliSeq S14
+longLabel HCT116 high resolutions Repliseq S14
+type bigWig
+visibility dense
+viewLimits 0:20
+centerLabelsDense off
+priority 14
+
+track S15
+bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/S15HCT_Repliseq.bw
+shortLabel HCT116 RepliSeq S15
+longLabel HCT116 high resolutions Repliseq S15
+type bigWig
+visibility dense
+viewLimits 0:20
+centerLabelsDense off
+priority 15
+
+track S16
+bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/S16HCT_Repliseq.bw
+shortLabel HCT116 RepliSeq S16
+longLabel HCT116 high resolutions Repliseq S16
+type bigWig
+visibility dense
+viewLimits 0:20
+centerLabelsDense off
+priority 16
