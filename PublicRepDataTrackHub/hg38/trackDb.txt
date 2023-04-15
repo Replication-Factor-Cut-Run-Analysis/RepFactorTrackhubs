@@ -10,11 +10,11 @@ color 127,59,8
 
 track IniSeq2_HighEfficiency
 bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/GSM5658908_Ini_seq2_highEfficiency.bb
-shortLabel HighEffIniSeq2Origins
+shortLabel Efficient
 longLabel IniSeq2 Origins - Efficient
 type bigBed 3
 visibility dense
-centerLabelsDense on
+centerLabelsDense of
 priority 2
 color 127,59,8
 
