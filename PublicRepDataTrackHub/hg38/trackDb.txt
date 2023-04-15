@@ -1,0 +1,4 @@
+track S1
+bigDataUrl https://github.com/sansamcl/NobleEtAl_Paper/raw/main/ExternalData/S1HCT_Repliseq.bw
+shortLabel HCT116 RepliSeq S1
+longLabel HCT116 high resolutions Repliseq S1.  

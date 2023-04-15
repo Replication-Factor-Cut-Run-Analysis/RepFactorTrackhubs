@@ -1,0 +1,5 @@
+hub TicrrAsynchronous
+shortLabel TICRR Async
+longLabel Cut&Run of TICRR in Asynchronously Cycling HCT116 and HELA cells
+genomesFile genomes.txt
+email chris-sansam@omrf.org 
