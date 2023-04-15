@@ -1,5 +1,5 @@
-track RepTiminb
-bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/S1HCT_Repliseq.bw
+track RepTiming
+bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/Ticrr51Tir1_ZScores.bw
 shortLabel HCT116 RepliSeq S1
 longLabel Replication Timing
 type bigWig
