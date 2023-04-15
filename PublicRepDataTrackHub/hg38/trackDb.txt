@@ -6,6 +6,7 @@ type bigWig
 visibility dense
 viewLimits 0:20
 centerLabelsDense off
+priority 1
 
 track S2
 bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/S2HCT_Repliseq.bw
@@ -15,6 +16,7 @@ type bigWig
 visibility dense
 viewLimits 0:20
 centerLabelsDense off
+priority 2
 
 track S3
 bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/S3HCT_Repliseq.bw
@@ -24,6 +26,7 @@ type bigWig
 visibility dense
 viewLimits 0:20
 centerLabelsDense off
+priority 3
 
 track S4
 bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/S4HCT_Repliseq.bw
@@ -33,6 +36,7 @@ type bigWig
 visibility dense
 viewLimits 0:20
 centerLabelsDense off
+priority 4
 
 track S5
 bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/S5HCT_Repliseq.bw
@@ -42,6 +46,7 @@ type bigWig
 visibility dense
 viewLimits 0:20
 centerLabelsDense off
+priority 5
 
 track S6
 bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/S6HCT_Repliseq.bw
@@ -51,6 +56,7 @@ type bigWig
 visibility dense
 viewLimits 0:20
 centerLabelsDense off
+priority 6
 
 track S7
 bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/S7HCT_Repliseq.bw
@@ -60,6 +66,7 @@ type bigWig
 visibility dense
 viewLimits 0:20
 centerLabelsDense off
+priority 7
 
 track S8
 bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/S8HCT_Repliseq.bw
@@ -69,6 +76,7 @@ type bigWig
 visibility dense
 viewLimits 0:20
 centerLabelsDense off
+priority 8
 
 track S9
 bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/S9HCT_Repliseq.bw
@@ -78,6 +86,7 @@ type bigWig
 visibility dense
 viewLimits 0:20
 centerLabelsDense off
+priority 9
 
 track S10
 bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/S10HCT_Repliseq.bw
@@ -87,4 +96,15 @@ type bigWig
 visibility dense
 viewLimits 0:20
 centerLabelsDense off
+priority 10
+
+track S11
+bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/S11HCT_Repliseq.bw
+shortLabel HCT116 RepliSeq S11
+longLabel HCT116 high resolutions Repliseq S11
+type bigWig
+visibility dense
+viewLimits 0:20
+centerLabelsDense off
+priority 11
 
