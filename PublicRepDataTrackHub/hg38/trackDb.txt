@@ -1,3 +1,13 @@
+track IniSeq2
+bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/Ticrr51Tir1_ZScores.bw
+shortLabel IniSeq2Origins
+longLabel IniSeq2 Origins
+type bed
+visibility full
+centerLabelsDense on
+priority 1
+color 127,59,8
+
 track RepTiming
 bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/Ticrr51Tir1_ZScores.bw
 shortLabel HCT116 RepliSeq S1
@@ -12,12 +22,12 @@ altColor 45,0,75
 
 track S1
 bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/S1HCT_Repliseq.bw
-shortLabel HCT116 RepliSeq S1
+shortLabel HCT116 RepliSeq
 longLabel HCT116 high resolutions Repliseq S1
 type bigWig
 visibility dense
 viewLimits 0:20
-centerLabelsDense off
+centerLabelsDense on
 priority 2
 
 track S2
