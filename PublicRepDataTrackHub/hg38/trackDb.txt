@@ -7,7 +7,7 @@ visibility dense
 viewLimits -2.5:2.5
 centerLabelsDense on
 priority 1
-color 0,0,255, 255,0,0
+color 0000FF,00FF00,FF0000
 
 track S1
 bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/S1HCT_Repliseq.bw
