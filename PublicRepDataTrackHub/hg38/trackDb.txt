@@ -1,8 +1,6 @@
 track HCT116Repliseq
 container multiWig
 aggregate stacked
-type bigWig
-vistibility dense
 
 track S1
 parent HCT116Repliseq
