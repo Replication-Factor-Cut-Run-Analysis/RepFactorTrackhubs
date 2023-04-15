@@ -3,7 +3,7 @@ bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrack
 shortLabel HCT116 RepliSeq S1
 longLabel Replication Timing
 type bigWig
-visibility dense
+visibility full
 viewLimits -2.5:2.5
 centerLabelsDense on
 priority 1
