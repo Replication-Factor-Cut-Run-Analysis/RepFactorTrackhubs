@@ -3,3 +3,4 @@ bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrack
 shortLabel HCT116 RepliSeq S1
 longLabel HCT116 high resolutions Repliseq S1
 type bigWig
+visibility dense
