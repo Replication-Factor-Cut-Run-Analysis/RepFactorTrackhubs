@@ -1,8 +1,8 @@
 track IniSeq2
-bigDataUrl https://raw.githubusercontent.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/main/PublicRepDataTrackHub/hg38/GSM5658908_Ini_seq2.bed
+bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/GSM5658908_Ini_seq2_highEfficiency.bb
 shortLabel IniSeq2Origins
 longLabel IniSeq2 Origins
-type bed 3+
+type bigBed 3 +
 visibility full
 centerLabelsDense on
 priority 1
