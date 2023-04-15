@@ -3,7 +3,7 @@ bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrack
 shortLabel IniSeq2Origins
 longLabel IniSeq2 Origins
 type bigBed 3
-visibility full
+visibility dense
 centerLabelsDense on
 priority 1
 color 127,59,8
