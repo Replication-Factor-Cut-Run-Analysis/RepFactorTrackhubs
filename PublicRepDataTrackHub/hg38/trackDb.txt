@@ -1,5 +1,5 @@
 track S1
-type bigWig
 bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/S1HCT_Repliseq.bw
 shortLabel HCT116 RepliSeq S1
-longLabel HCT116 high resolutions Repliseq S1.  
+longLabel HCT116 high resolutions Repliseq S1
+type bigWig
