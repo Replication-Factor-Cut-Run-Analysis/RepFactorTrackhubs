@@ -1,5 +1,5 @@
-hub TicrrAsynchronous
-shortLabel TICRR Async
-longLabel Cut&Run of TICRR in Asynchronously Cycling HCT116 and HELA cells
+hub PublicHCT116RepData
+shortLabel HCT116RepData
+longLabel Public HCT116 DNA Replication Data
 genomesFile genomes.txt
 email chris-sansam@omrf.org 
