@@ -1,0 +1,5 @@
+hub TICRR_Async_Data
+shortLabel TICRRAsyncData
+longLabel Asynchronous TICRR CutAndRun
+genomesFile genomes.txt
+email chris-sansam@omrf.org 
