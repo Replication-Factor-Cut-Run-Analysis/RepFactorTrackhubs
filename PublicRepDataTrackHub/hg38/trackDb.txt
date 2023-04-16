@@ -223,6 +223,7 @@ longLabel HiC_CompartmentScores
 type bigWig
 visibility full
 centerLabelsDense on
-priority 100
+priority 3
 color 179,88,6
 altColor 84,39,136
+viewLimits -2.5:2.5
