@@ -27,8 +27,8 @@ visibility full
 viewLimits -2.5:2.5
 centerLabelsDense on
 priority 3
-color 127,59,8
-altColor 45,0,75
+color 179,88,6
+altColor 84,39,136
 
 track HighResRepliseq_HCT116
 type bigWig
