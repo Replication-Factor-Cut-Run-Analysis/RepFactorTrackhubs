@@ -215,3 +215,14 @@ maxHeightPixels 8:8:8
   centerLabelsDense off
   priority 19
   parent HighResRepliseq_HCT116
+
+track HiC_CompartmentScores
+bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/4DNFI4LVI935.bw
+shortLabel HiC_CompartmentScores
+longLabel HiC_CompartmentScores
+type bigWig
+visibility full
+centerLabelsDense on
+priority 100
+color 179,88,6
+altColor 84,39,136
