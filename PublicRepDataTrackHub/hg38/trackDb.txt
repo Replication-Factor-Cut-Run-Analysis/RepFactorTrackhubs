@@ -38,6 +38,7 @@ longLabel HighResRepliseq_HCT116
 visibility dense
 aggregate none
 boxedCfg on
+maxHeightPixels 8:8:8
 
   track S1
   bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/S1HCT_Repliseq.bw
