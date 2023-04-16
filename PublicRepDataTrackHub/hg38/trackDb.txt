@@ -227,3 +227,15 @@ priority 3
 color 179,88,6
 altColor 84,39,136
 viewLimits -2.5:2.5
+
+track LaminB1 DamID of HCT116
+bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/4DNFIFKMR1J8.bw
+shortLabel LaminB1 DamID of HCT116
+longLabel LaminB1 DamID of HCT116
+type bigWig
+visibility full
+centerLabelsDense on
+priority 3
+color 179,88,6
+altColor 84,39,136
+viewLimits -2.5:2.5
