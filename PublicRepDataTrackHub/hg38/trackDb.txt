@@ -36,7 +36,8 @@ container multiWig
 shortLabel HighResRepliseq_HCT116
 longLabel HighResRepliseq_HCT116
 visibility dense
-aggregate stacked
+aggregate none
+boxedCfg on
 
   track S1
   bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/S1HCT_Repliseq.bw
