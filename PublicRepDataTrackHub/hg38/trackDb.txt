@@ -251,3 +251,189 @@ priority 3
 color 179,88,6
 altColor 84,39,136
 viewLimits -2.5:2.5
+
+track HighResRepliseq_Rif1_HCT116
+type bigWig
+container multiWig
+shortLabel HighResRepliseq_Rif1_HCT116
+longLabel HighResRepliseq_Rif1_HCT116
+visibility dense
+aggregate none
+boxedCfg on
+maxHeightPixels 8:8:8
+
+  track Rif1_S1
+  bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/S1_Rif1_HCT_Repliseq.bw
+  shortLabel HCT116 Rif1 Knockdown RepliSeq
+  longLabel HCT116 Rif1 Knockdown Repliseq
+  type bigWig
+  visibility dense
+  viewLimits 0:20
+  centerLabelsDense on
+  priority 4
+  parent HighResRepliseq_Rif1_HCT116
+
+  track Rif1_S2
+  bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/S2_Rif1_HCT_Repliseq.bw
+  shortLabel HCT116 Rif1 RepliSeq S2
+  longLabel HCT116 Rif1 high resolution Repliseq S2
+  type bigWig
+  visibility dense
+  viewLimits 0:20
+  centerLabelsDense off
+  priority 5
+  parent HighResRepliseq_Rif1_HCT116
+
+  track Rif1_S3
+  bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/S3_Rif1_HCT_Repliseq.bw
+  shortLabel HCT116 Rif1 RepliSeq S3
+  longLabel HCT116 Rif1 high resolution Repliseq S3
+  type bigWig
+  visibility dense
+  viewLimits 0:20
+  centerLabelsDense off
+  priority 6
+  parent HighResRepliseq_Rif1_HCT116
+
+  track Rif1_S4
+  bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/S4_Rif1_HCT_Repliseq.bw
+  shortLabel HCT116 Rif1 RepliSeq S4
+  longLabel HCT116 Rif1 high resolution Repliseq S4
+  type bigWig
+  visibility dense
+  viewLimits 0:20
+  centerLabelsDense off
+  priority 7
+  parent HighResRepliseq_Rif1_HCT116
+
+  track Rif1_S5
+  bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/S5_Rif1_HCT_Repliseq.bw
+  shortLabel HCT116 Rif1 RepliSeq S5
+  longLabel HCT116 Rif1 high resolution Repliseq S5
+  type bigWig
+  visibility dense
+  viewLimits 0:20
+  centerLabelsDense off
+  priority 8
+  parent HighResRepliseq_Rif1_HCT116
+
+  track Rif1_S6
+  bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/S6_Rif1_HCT_Repliseq.bw
+  shortLabel HCT116 Rif1 RepliSeq S6
+  longLabel HCT116 Rif1 high resolution Repliseq S6
+  type bigWig
+  visibility dense
+  viewLimits 0:20
+  centerLabelsDense off
+  priority 9
+  parent HighResRepliseq_Rif1_HCT116
+
+  track Rif1_S7
+  bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/S7_Rif1_HCT_Repliseq.bw
+  shortLabel HCT116 Rif1 RepliSeq S7
+  longLabel HCT116 Rif1 high resolution Repliseq S7
+  type bigWig
+  visibility dense
+  viewLimits 0:20
+  centerLabelsDense off
+  priority 10
+  parent HighResRepliseq_Rif1_HCT116
+
+  track Rif1_S8
+  bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/S8_Rif1_HCT_Repliseq.bw
+  shortLabel HCT116 Rif1 RepliSeq S8
+  longLabel HCT116 Rif1 high resolution Repliseq S8
+  type bigWig
+  visibility dense
+  viewLimits 0:20
+  centerLabelsDense off
+  priority 11
+  parent HighResRepliseq_Rif1_HCT116
+
+  track Rif1_S9
+  bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/S9_Rif1_HCT_Repliseq.bw
+  shortLabel HCT116 Rif1 RepliSeq S9
+  longLabel HCT116 Rif1 high resolution Repliseq S9
+  type bigWig
+  visibility dense
+  viewLimits 0:20
+  centerLabelsDense off
+  priority 12
+  parent HighResRepliseq_Rif1_HCT116
+
+  track Rif1_S10
+  bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/S10_Rif1_HCT_Repliseq.bw
+  shortLabel HCT116 Rif1 RepliSeq S10
+  longLabel HCT116 Rif1 high resolution Repliseq S10
+  type bigWig
+  visibility dense
+  viewLimits 0:20
+  centerLabelsDense off
+  priority 13
+  parent HighResRepliseq_Rif1_HCT116
+
+  track Rif1_S11
+  bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/S11_Rif1_HCT_Repliseq.bw
+  shortLabel HCT116 Rif1 RepliSeq S11
+  longLabel HCT116 Rif1 high resolution Repliseq S11
+  type bigWig
+  visibility dense
+  viewLimits 0:20
+  centerLabelsDense off
+  priority 14
+  parent HighResRepliseq_Rif1_HCT116
+
+  track Rif1_S12
+  bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/S12_Rif1_HCT_Repliseq.bw
+  shortLabel HCT116 Rif1 RepliSeq S12
+  longLabel HCT116 Rif1 high resolution Repliseq S12
+  type bigWig
+  visibility dense
+  viewLimits 0:20
+  centerLabelsDense off
+  priority 15
+  parent HighResRepliseq_Rif1_HCT116
+
+  track Rif1_S13
+  bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/S13_Rif1_HCT_Repliseq.bw
+  shortLabel HCT116 Rif1 RepliSeq S13
+  longLabel HCT116 Rif1 high resolution Repliseq S13
+  type bigWig
+  visibility dense
+  viewLimits 0:20
+  centerLabelsDense off
+  priority 16
+  parent HighResRepliseq_Rif1_HCT116
+
+  track Rif1_S14
+  bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/S14_Rif1_HCT_Repliseq.bw
+  shortLabel HCT116 Rif1 RepliSeq S14
+  longLabel HCT116 Rif1 high resolution Repliseq S14
+  type bigWig
+  visibility dense
+  viewLimits 0:20
+  centerLabelsDense off
+  priority 17
+  parent HighResRepliseq_Rif1_HCT116
+
+  track Rif1_S15
+  bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/S15_Rif1_HCT_Repliseq.bw
+  shortLabel HCT116 Rif1 RepliSeq S15
+  longLabel HCT116 Rif1 high resolution Repliseq S15
+  type bigWig
+  visibility dense
+  viewLimits 0:20
+  centerLabelsDense off
+  priority 18
+  parent HighResRepliseq_Rif1_HCT116
+
+  track Rif1_S16
+  bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/S16_Rif1_HCT_Repliseq.bw
+  shortLabel HCT116 Rif1 RepliSeq S16
+  longLabel HCT116 Rif1 high resolution Repliseq S16
+  type bigWig
+  visibility dense
+  viewLimits 0:20
+  centerLabelsDense off
+  priority 19
+  parent HighResRepliseq_Rif1_HCT116
