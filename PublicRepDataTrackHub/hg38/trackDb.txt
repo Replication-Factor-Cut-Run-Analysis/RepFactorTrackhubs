@@ -239,3 +239,15 @@ priority 3
 color 84,39,136
 altColor 179,88,6
 viewLimits -2.5:2.5
+
+track Rif1CutAndRun
+bigDataUrl https://github.com/https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/GSE160563_HCT116_RIF1_CutnRun_log2_FE_over_Input.bigwig
+shortLabel Rif1 Cut&Run
+longLabel Rif1 Cut&Run
+type bigWig
+visibility full
+centerLabelsDense on
+priority 3
+color 179,88,6
+altColor 84,39,136
+viewLimits -2.5:2.5
