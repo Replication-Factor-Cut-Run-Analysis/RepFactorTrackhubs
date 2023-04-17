@@ -236,6 +236,6 @@ type bigWig
 visibility full
 centerLabelsDense on
 priority 3
-color 179,88,6
-altColor 84,39,136
+color 84,39,136
+altColor 179,88,6
 viewLimits -2.5:2.5
