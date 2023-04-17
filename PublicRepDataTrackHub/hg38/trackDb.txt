@@ -27,8 +27,8 @@ visibility full
 viewLimits -2.5:2.5
 centerLabelsDense on
 priority 3
-color 179,88,6
-altColor 84,39,136
+color 99,105,209
+altColor 24,32,111
 
 track HighResRepliseq_HCT116
 type bigWig
@@ -224,8 +224,8 @@ type bigWig
 visibility full
 centerLabelsDense on
 priority 3
-color 179,88,6
-altColor 84,39,136
+color 99,105,209
+altColor 24,32,111
 viewLimits -2.5:2.5
 
 track LaminB1DamIDHCT116
@@ -236,8 +236,8 @@ type bigWig
 visibility full
 centerLabelsDense on
 priority 3
-color 84,39,136
-altColor 179,88,6
+color 24,32,111
+altColor 99,105,209
 viewLimits -2.5:2.5
 
 track Rif1CutAndRun
@@ -248,8 +248,8 @@ type bigWig
 visibility full
 centerLabelsDense on
 priority 3
-color 179,88,6
-altColor 84,39,136
+color 99,105,209
+altColor 24,32,111
 viewLimits -2.5:2.5
 
 track HighResRepliseq_Rif1_HCT116
