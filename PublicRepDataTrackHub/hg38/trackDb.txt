@@ -1,3 +1,13 @@
+track ORM_IZs
+bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/ORM_IZs_hg38.bb
+shortLabel OrmOrigins
+longLabel Optical replication mapping Origins
+type bigBed 3
+visibility dense
+centerLabelsDense on
+priority 1
+color 65,11,19
+
 track IniSeq2
 bigDataUrl https://github.com/Replication-Factor-Cut-Run-Analysis/RepFactorTrackhubs/raw/main/PublicRepDataTrackHub/hg38/GSM5658908_Ini_seq2.bb
 shortLabel IniSeq2Origins
